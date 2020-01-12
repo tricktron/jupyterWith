@@ -35,11 +35,14 @@ let
         ( juniperWith {
             name = "test";
         })
-
+        
         #( xeusCling {
         #    name = "test";
         #})
 
+        ( iRWith {
+            name = "test";
+        })
       ];
     };
 
